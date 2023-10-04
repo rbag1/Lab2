@@ -126,7 +126,7 @@ grid-column: 1 / 2;
 
 #grid-section3 .box4 {
 grid-column: 2 / 3; 
-  grid-row: 2 / 4; 
+  grid-row: 3 / 4; 
   background-color: #f0f0f0;
 }
 

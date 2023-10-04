@@ -74,10 +74,11 @@ list-style: none;
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-display: grid;
-  grid-template-columns: repeat (4, 1 fr); 
-  grid-gap: 20 px;
-	grid-auto-rows: 100 px;
+display: flex;
+  flex-wrap:wrap;
+ gap: 1em;
+	align-content: flex-start;
+	
 }
 
 /* end Grid Part 1 */

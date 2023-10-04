@@ -68,10 +68,14 @@ list-style: none;
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-display: flex;
-  flex-wrap:wrap;
- gap: 1em;
-	align-content: flex-start;
+display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+  grid-gap: 20px; 
+  width: 100%; 
+  height: 100px; 
+  background-color: 
+  text-align: center; 
+  line-height: 100px;
 	
 }
 

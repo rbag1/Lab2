@@ -8,9 +8,9 @@
   padding: 50;
 margin: 50px 5px 0px 50px;*/
 	display: flex;
-  justify-content: space-between; 
+  justify-content: space-around; 
   list-style: none; 
-  padding: 30 0 0 30; 
+  padding: 0; 
   margin: 0;
 }
 /* end Flexbox Part 1 */
